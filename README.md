@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Connor-the-developer
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on my website and youtube channel
+- 💞️ I’m a developing for ChattrBox
 - 📫 How to reach me email
-- 😄 Pronouns: He/Them
+- 😄 Pronouns: N/A
 - ⚡ Fun fact: I am a techie
 
 <!---
